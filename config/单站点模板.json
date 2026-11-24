@@ -1,1 +1,31 @@
-ewogICJf6K+05piOIjogIuacgOWwj+WNleermeeCueaooeadv++8mnNpdGVzIOmHjOaUviB0eXBlPTEg55qE546w5oiQIEpTT04g6YeH6ZuG5o6l5Y+j77yb5oqKIGFwaSDmjaLmiJDkvaDnmoTmjqXlj6PlnLDlnYDljbPlj6/jgIJ0eXBlPTAg55SoIFhNTCDmjqXlj6PvvIx0eXBlPTQg55So5bim562b6YCJ55qE5omp5bGVIEpTT07jgIIiLAogICJzaXRlcyI6IFsKICAgIHsKICAgICAgImtleSI6ICJzaXRlMDEiLAogICAgICAibmFtZSI6ICLmiJHnmoTniYfmupBBIiwKICAgICAgInR5cGUiOiAxLAogICAgICAiYXBpIjogImh0dHBzOi8vZXhhbXBsZS5jb20vYXBpL3ZvZC5waHAiLAogICAgICAic2VhcmNoYWJsZSI6IDEsCiAgICAgICJxdWlja1NlYXJjaCI6IDEsCiAgICAgICJmaWx0ZXJhYmxlIjogMSwKICAgICAgImNoYW5nZWFibGUiOiAxLAogICAgICAic3R5bGUiOiB7ICJ0eXBlIjogInJlY3QiLCAicmF0aW8iOiAwLjc1IH0KICAgIH0sCiAgICB7CiAgICAgICJrZXkiOiAic2l0ZTAyIiwKICAgICAgIm5hbWUiOiAi5oiR55qE54mH5rqQQi1YTUwiLAogICAgICAidHlwZSI6IDAsCiAgICAgICJhcGkiOiAiaHR0cHM6Ly9leGFtcGxlLmNvbS9hcGkvdm9kLnBocD94bWw9MSIsCiAgICAgICJzZWFyY2hhYmxlIjogMSwKICAgICAgImNoYW5nZWFibGUiOiAxCiAgICB9CiAgXSwKICAibGl2ZXMiOiBbCiAgICB7CiAgICAgICJuYW1lIjogIuaIkeeahOebtOaSrSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvY24ubTN1IiwKICAgICAgImVwZyI6ICJodHRwczovL2VwZy4xMTIxMTQueHl6L3BwLnhtbCIKICAgIH0KICBdCn0K
+{
+  "_说明": "最小单站点模板：sites 里放 type=1 的现成 JSON 采集接口；把 api 换成你的接口地址即可。type=0 用 XML 接口，type=4 用带筛选的扩展 JSON。",
+  "sites": [
+    {
+      "key": "site01",
+      "name": "我的片源A",
+      "type": 1,
+      "api": "https://example.com/api/vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": { "type": "rect", "ratio": 0.75 }
+    },
+    {
+      "key": "site02",
+      "name": "我的片源B-XML",
+      "type": 0,
+      "api": "https://example.com/api/vod.php?xml=1",
+      "searchable": 1,
+      "changeable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "我的直播",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
+      "epg": "https://epg.112114.xyz/pp.xml"
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-IyBGb25nTWkvVFYg5LqM5byA5pa55qGI77yI55uSL+acuuWPjOerr++8iQoKPiDmlLkgVUkg5ZOB54mM44CB5o6l5YWlKirnjrDmiJDniYfmupDmjqXlj6MqKuOAgeW4puebtOaSre+8jOS4gOWll+aWueahiOimhueblueUteinhuerr+S4juaJi+acuuerr+OAggo+IOW9k+WJjeS4uiAqKnYyKirvvJrmlL7lvIPoh6rlu7rniYfmupDlkI7nq6/vvIzmlLnnlKjnpL7ljLrlhazlvIDmjqXlj6PvvIhBcHAg5Y6f55Sf5pSv5oyB77yM6Zu25Luj56CB5o6l5YWl77yJ44CCCgotLS0KCiMjIOi/meS4qumhueebruino+WGs+S7gOS5iAoKLSAqKuS4jeiHquW7uuWQjuerryoq77ya546w5oiQ6YeH6ZuG56uZ5o6l5Y+j55u05o6l5aGrIGB0eXBlPTFgICsgQVBJIOWcsOWdgOWNs+WPr+eUqO+8jOS4jemcgOimgeWGmeacjeWKoeerr+OAggotICoq6Ieq5bim54is6JmrKirvvJrnpL7ljLrorqLpmIXphY3nva7ph4zluKYgYHNwaWRlcjogIi4vY3VzdG9tX3NwaWRlci5qYXIiYO+8jEFwcCDliqDovb3lkI7oh6rliqjniKzliIbnsbvjgIHliJfooajjgIHpgInpm4blkozmkq3mlL7lnLDlnYDjgIIKLSAqKueCueaSrSArIOebtOaSrSoq77ya5LiA5Lu96YWN572u5ZCM5pe25o6l5YWl5aSa5LuT54K55pKt6K6i6ZiF44CB55u05pKt5rqQ5LiOIEVQRyDoioLnm67ljZXjgIIKLSAqKuWPjOerryBVSSDmlLnpgKAqKu+8muaMiSBGb25nTWkvVFYg55qEIGBsZWFuYmFja2DvvIjnlLXop4bvvIkvIGBtb2JpbGVg77yI5omL5py677yJc291cmNlU2V0IOWIhuWIq+aUue+8jOS4jeWKqCBgbWFpbmAg6YeM55qE5Lia5Yqh5qC45b+D44CCCgojIyDlv6vpgJ/lvIDlp4sKCjEuIOaJk+W8gCBGb25nTWkvVFYg4oaSIOiuvue9riDihpIg6YWN572u5Zyw5Z2A44CCCjIuIOWhq+WFpeacrOS7k+W6k+eahCBbYGNvbmZpZy/njrDmiJDmjqXlj6PphY3nva4uanNvbmBdKGNvbmZpZy/njrDmiJDmjqXlj6PphY3nva4uanNvbikg55qE5Y+v6K6/6Zeu5Zyw5Z2A77yI5Y+v5pS+5Yiw6Ieq5bex55qEIEdpdEh1YiBHaXN044CB5a+56LGh5a2Y5YKo5oiW5pys5Zyw5pyN5Yqh5Zmo77yJ44CCCjMuIOehruiupOWQjiBBcHAg6Ieq5Yqo5Yqg6L2954K55pKt56uZ54K544CB55u05pKt5rqQ5ZKMIEVQR+OAggo0LiDlpoLmnpzlj6rmg7PmjqXkuIDkuKrmjqXlj6PvvIznlKggW2Bjb25maWcv5Y2V56uZ54K55qih5p2/Lmpzb25gXShjb25maWcv5Y2V56uZ54K55qih5p2/Lmpzb24p77yM5oqKIGBzaXRlc1tdLmFwaWAg5o2i5oiQ5L2g55qE5o6l5Y+j5Zyw5Z2A5Y2z5Y+v44CCCgrkuZ/lj6/ku6Xnm7TmjqXotLTnjrDmiJDorqLpmIXlnLDlnYDvvIjmnIDnnIHkuovvvIzkvYblrozlhajkvp3otZblr7nmlrnmm7TmlrDvvInvvJoKCmBgYApodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvbGl1NjczY24vYm94QG1haW4vbS5qc29uCmBgYAoK5pu06K+m57uG55qE5a+85YWl44CB5o2i5rqQ44CB5rWL6YCf5ZKM55u05pKt6YWN572u5q2l6aqk6KeBIFtgZG9jcy8wMy3njrDmiJDmjqXlj6PmjqXlhaXmjIfljZcubWRgXShkb2NzLzAzLeeOsOaIkOaOpeWPo+aOpeWFpeaMh+WNly5tZCnjgIIKCiMjIOaOqOiNkOa6kO+8iDIwMjYtMTEtMjQg5a6e5rWL77yJCgrnqLPlrprmgKfmjpLluo/vvJoqKkdpdEh1YiDmiZjnrqHvvIhqc0RlbGl2ciAvIHJhd++8iT4g5aSn56uZ55u06ZO+ID4g5bCP56uZ5Z+f5ZCNKirjgIIKCnwg57G75Z6LIHwg5Zyw5Z2AIHwg5a6e5rWLIHwKfC0tLXwtLS18LS0tfAp8IOeCueaSre+8iOWkmuS7k++8jOmmlumAie+8iSB8IGBodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvbGl1NjczY24vYm94QG1haW4vbS5qc29uYCB8IDEuNHMgLyA1N0tCIHwKfCDngrnmkq3vvIjlpIfnlKjvvIkgfCBgaHR0cHM6Ly9yYXcubGl1Y24uY2MvYm94L20uanNvbmAgfCAxLjZzIHwKfCDngrnmkq3vvIjlkKvniKzomasgSkFS77yJIHwgYGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS94eXEyNTQyNDUveHlxb25saW5lcnVsZS9tYWluL1hZUVRWQm94Lmpzb25gIHwgMC40cyB8Cnwg55u05pKt77yINTE3IOmikemBk++8iSB8IGBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaXB0di1vcmcvaXB0di9tYXN0ZXIvc3RyZWFtcy9jbi5tM3VgIHwg5Y+v55SoIHwKfCDnm7Tmkq3vvIjlpK7op4Yv5Y2r6KeG77yJIHwgYGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS92YnNreWNuL2lwdHYvbWFzdGVyL3R2L2lwdHY0LnR4dGAgfCDlj6/nlKggfAp8IEVQRyB8IGBodHRwczovL2VwZy4xMTIxMTQueHl6L3BwLnhtbGAgfCDlj6/nlKggfAoKPiDku7vkvZXmupDpg73kuI3og73kv53or4EgMTAwJSDnp5Lmkq3jgILljaHkuI3ljaHlj5blhrPkuo7ph4fpm4bnq5nnur/ot6/jgIHov5DokKXllYbnvZHnu5zlkozml7bmrrXvvJvlpJrku5PorqLpmIXnmoTkvJjlir/mmK/nur/ot6/lpJrjgIHlj6/pmo/ml7bliIfmjaLjgIIKCiMjIOebruW9lee7k+aehAoKYGBgCmZvbmdtaS10di1lcmthaS8K4pSc4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAgICAgICAgICAgICAgIyDmnKzmlofku7YK4pSc4pSA4pSAIOS4iuS8oOivtOaYji5tZCAgICAgICAgICAgICAgICAgICAgICAjIOS4iuS8oC/mjqjpgIHor7TmmI4K4pSc4pSA4pSAIC5naXRpZ25vcmUK4pSc4pSA4pSAIGNvbmZpZy8K4pSCICAg4pSc4pSA4pSAIOeOsOaIkOaOpeWPo+mFjee9ri5qc29uICAgICAgICAgICAgIyDlj6/nm7TmjqXlr7zlhaUgQXBwIOeahOeCueaSrSArIOebtOaSrSArIEVQRyDphY3nva4K4pSCICAg4pSU4pSA4pSAIOWNleermeeCueaooeadvy5qc29uICAgICAgICAgICAgICAjIOWNleaOpeWPo+acgOWwj+aooeadv++8iHR5cGU9Me+8iQrilJzilIDilIAgZG9jcy8K4pSCICAg4pSc4pSA4pSAIDAxLeeJh+a6kEFQSeWlkee6pi5tZCAgICAgICAgICAgICMg77yI5aSH6YCJ77yJ6Ieq5bu65ZCO56uv55qE5o6l5Y+j5aWR57qmCuKUgiAgIOKUnOKUgOKUgCAwMi1VSeaUuemAoOa4heWNlS5tZCAgICAgICAgICAgICAjIOWPjOerryBVSSDmlLnpgKDmlofku7bnuqfmuIXljZUK4pSCICAg4pSU4pSA4pSAIDAzLeeOsOaIkOaOpeWPo+aOpeWFpeaMh+WNly5tZCAgICAgICAgIyDlr7zlhaUgLyDmjaLmupAgLyDnm7Tmkq0gLyDmtYvpgJ8K4pSc4pSA4pSAIHNwaWRlci8K4pSCICAg4pSc4pSA4pSAIHNwaWRlci5qcyAgICAgICAgICAgICAgICAgICAgIyDvvIjlpIfpgInvvIlRdWlja0pTIOeIrOiZq+mAgumFjeWZqArilIIgICDilJTilIDilIAgY29uZmlnLmpzb24gICAgICAgICAgICAgICAgICAjIO+8iOWkh+mAie+8iVNwaWRlciDnq5nngrnphY3nva4K4pSU4pSA4pSAIGFwaS8KICAgIOKUlOKUgOKUgCBzZXJ2ZXIucHkgICAgICAgICAgICAgICAgICAgICMg77yI5aSH6YCJ77yJRmFzdEFQSSDlj4LogIPlkI7nq68KYGBgCgrmoIfms6jjgIzlpIfpgInjgI3nmoTmlofku7bmmK/nlZnnu5nlsIbmnaXmg7Poh6rlrprkuYnniYfmupAv54is6Jmr5pe255So55qE77yM5b2T5YmN55So546w5oiQ5o6l5Y+j5LiN6ZyA6KaB44CCCgojIyBTaXRlLnR5cGUg6YCf5p+lCgp8IHR5cGUgfCDlkKvkuYkgfCBhcGkg5aGr5rOVIHwg5piv5ZCm5YaZ5Luj56CBIHwKfC0tLXwtLS18LS0tfC0tLXwKfCAwIHwgWE1MIEhUVFAgfCDnjrDmiJAgWE1MIOaOpeWPoyBVUkwgfCDkuI3nlKggfAp8IDEgfCBKU09OIEhUVFAgfCDnjrDmiJAgSlNPTiDmjqXlj6MgVVJMIHwg5LiN55SoIHwKfCA0IHwgSFRUUCDmianlsZUgSlNPTu+8iOW4puetm+mAie+8iSB8IOeOsOaIkOaOpeWPoyBVUkwgfCDkuI3nlKggfAp8IDMgfCBTcGlkZXIg54is6Jmr77yISkFSIC8gUFkgLyBKU++8iSB8IGBjc3Bf57G75ZCNYCAvIGAuL3guanNgIC8gYC4veC5weWAgfCDopoHvvIjmiJbnlKjnjrDmiJAgSkFS77yJIHwKCiMjIFVJIOaUuemAoOi3r+e6vwoK5oyJ5pS55Yqo6YeP5LuO5bCP5Yiw5aSn5YiG5LiJ5bGC77yM5bu66K6u5YWI5YGaIEwx77yaCgotICoqTDEg5ZOB54mM5YyWKirvvJrlupTnlKjlkI3jgIHlm77moIfjgIHkuLvpopjoibLjgIHlkK/liqjlm77vvIjkuKTnq6/lkITmlLnkuIDmrKHvvInjgIIKLSAqKkwyIOinhuiniemjjuagvCoq77ya5Y2h54mH5q+U5L6LL+WchuinkuOAgemmlumhteW4g+WxgOOAgeeEpueCuemrmOS6ru+8jOaUuSBBZGFwdGVyIOS4juiHquWumuS5iSBWaWV344CCCi0gKipMMyDkuqTkupLkuI7pobXpnaIqKu+8muaWsOWinumhtemdouOAgeaUueWvvOiIquOAgeaJq+eggemBpeaOp+WFpeWPo+etie+8jOaUuSBBY3Rpdml0eSAvIEZyYWdtZW5044CCCgrpk4HlvovvvJrlj6rliqggYGFwcC9zcmMvbGVhbmJhY2svYCDlkowgYGFwcC9zcmMvbW9iaWxlL2Ag55qEIFVJIOWxgu+8jOWIq+eisCBgYXBwL3NyYy9tYWluL2Ag55qE5Lia5Yqh5qC45b+D44CC5a6M5pW05riF5Y2V6KeBIFtgZG9jcy8wMi1VSeaUuemAoOa4heWNlS5tZGBdKGRvY3MvMDItVUnmlLnpgKDmuIXljZUubWQp44CCCgojIyDlkIjop4Tor7TmmI4KCi0g5pys5LuT5bqT5Y+q5YGaKirmioDmnK/mjqXlhaXkuI7ov57pgJrmgKflrp7mtYsqKu+8jOS4jeWGhee9ruOAgeS4jeaPkOS+m+S7u+S9leW9seinhuWGheWuueOAggotIOmFjee9ruS4reW8leeUqOeahOaOpeWPo+S4juebtOaSrea6kOWdh+S4uuekvuWMuuWFrOW8gOe7tOaKpOeahOesrOS4ieaWuei1hOa6kO+8jOWFtueos+WumuaAp+OAgeWGheWuueWQiOazleaAp+S4jueJiOadg+eUsea6kOaPkOS+m+aWuei0n+i0o+OAggotIOS6jOW8gOS7heeUqOS6juS4quS6uuWtpuS5oOS4juaKgOacr+eglOeptu+8jOivt+WLv+aJk+WMheS8oOaSreaIluWVhuS4muWIhuWPke+8m+ivt+mBteWuiOaJgOWcqOWcsOazleW+i+azleinhO+8jOaUr+aMgeato+eJiOOAggo=
+# FongMi/TV 二开方案（盒/机双端）
+
+> 改 UI 品牌、接入**现成片源接口**、带直播，一套方案覆盖电视端与手机端。
+> 当前为 **v2**：放弃自建片源后端，改用社区公开接口（App 原生支持，零代码接入）。
+
+---
+
+## 这个项目解决什么
+
+- **不自建后端**：现成采集站接口直接填 `type=1` + API 地址即可用，不需要写服务端。
+- **自带爬虫**：社区订阅配置里带 `spider: "./custom_spider.jar"`，App 加载后自动爬分类、列表、选集和播放地址。
+- **点播 + 直播**：一份配置同时接入多仓点播订阅、直播源与 EPG 节目单。
+- **双端 UI 改造**：按 FongMi/TV 的 `leanback`（电视）/ `mobile`（手机）sourceSet 分别改，不动 `main` 里的业务核心。
+
+## 快速开始
+
+1. 打开 FongMi/TV → 设置 → 配置地址。
+2. 填入本仓库的 [`config/现成接口配置.json`](config/现成接口配置.json) 的可访问地址（可放到自己的 GitHub Gist、对象存储或本地服务器）。
+3. 确认后 App 自动加载点播站点、直播源和 EPG。
+4. 如果只想接一个接口，用 [`config/单站点模板.json`](config/单站点模板.json)，把 `sites[].api` 换成你的接口地址即可。
+
+也可以直接贴现成订阅地址（最省事，但完全依赖对方更新）：
+
+```
+https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+```
+
+更详细的导入、换源、测速和直播配置步骤见 [`docs/03-现成接口接入指南.md`](docs/03-现成接口接入指南.md)。
+
+## 推荐源（2026-11-24 实测）
+
+稳定性排序：**GitHub 托管（jsDelivr / raw）> 大站直链 > 小站域名**。
+
+| 类型 | 地址 | 实测 |
+|---|---|---|
+| 点播（多仓，首选） | `https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json` | 1.4s / 57KB |
+| 点播（备用） | `https://raw.liucn.cc/box/m.json` | 1.6s |
+| 点播（含爬虫 JAR） | `https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json` | 0.4s |
+| 直播（517 频道） | `https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u` | 可用 |
+| 直播（央视/卫视） | `https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt` | 可用 |
+| EPG | `https://epg.112114.xyz/pp.xml` | 可用 |
+
+> 任何源都不能保证 100% 秒播。卡不卡取决于采集站线路、运营商网络和时段；多仓订阅的优势是线路多、可随时切换。
+
+## 目录结构
+
+```
+fongmi-tv-erkai/
+├── README.md                       # 本文件
+├── 上传说明.md                      # 上传/推送说明
+├── .gitignore
+├── config/
+│   ├── 现成接口配置.json            # 可直接导入 App 的点播 + 直播 + EPG 配置
+│   └── 单站点模板.json              # 单接口最小模板（type=1）
+├── docs/
+│   ├── 01-片源API契约.md            # （备选）自建后端的接口契约
+│   ├── 02-UI改造清单.md             # 双端 UI 改造文件级清单
+│   └── 03-现成接口接入指南.md        # 导入 / 换源 / 直播 / 测速
+├── spider/
+│   ├── spider.js                    # （备选）QuickJS 爬虫适配器
+│   └── config.json                  # （备选）Spider 站点配置
+└── api/
+    └── server.py                    # （备选）FastAPI 参考后端
+```
+
+标注「备选」的文件是留给将来想自定义片源/爬虫时用的，当前用现成接口不需要。
+
+## Site.type 速查
+
+| type | 含义 | api 填法 | 是否写代码 |
+|---|---|---|---|
+| 0 | XML HTTP | 现成 XML 接口 URL | 不用 |
+| 1 | JSON HTTP | 现成 JSON 接口 URL | 不用 |
+| 4 | HTTP 扩展 JSON（带筛选） | 现成接口 URL | 不用 |
+| 3 | Spider 爬虫（JAR / PY / JS） | `csp_类名` / `./x.js` / `./x.py` | 要（或用现成 JAR） |
+
+## UI 改造路线
+
+按改动量从小到大分三层，建议先做 L1：
+
+- **L1 品牌化**：应用名、图标、主题色、启动图（两端各改一次）。
+- **L2 视觉风格**：卡片比例/圆角、首页布局、焦点高亮，改 Adapter 与自定义 View。
+- **L3 交互与页面**：新增页面、改导航、扫码遥控入口等，改 Activity / Fragment。
+
+铁律：只动 `app/src/leanback/` 和 `app/src/mobile/` 的 UI 层，别碰 `app/src/main/` 的业务核心。完整清单见 [`docs/02-UI改造清单.md`](docs/02-UI改造清单.md)。
+
+## 合规说明
+
+- 本仓库只做**技术接入与连通性实测**，不内置、不提供任何影视内容。
+- 配置中引用的接口与直播源均为社区公开维护的第三方资源，其稳定性、内容合法性与版权由源提供方负责。
+- 二开仅用于个人学习与技术研究，请勿打包传播或商业分发；请遵守所在地法律法规，支持正版。

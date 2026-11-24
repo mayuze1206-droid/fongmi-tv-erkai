@@ -1,1 +1,17 @@
-IyBQeXRob24KX19weWNhY2hlX18vCioucHljCioucHlvCi5weXRlc3RfY2FjaGUvCi52ZW52Lwp2ZW52LwoKIyBJREUgLyBPUwouaWRlYS8KLnZzY29kZS8KLkRTX1N0b3JlClRodW1icy5kYgoKIyDmnKzlnLDnp4Hlr4bphY3nva7vvIjlkKvlj6/og73nmoQgYXBpS2V577yJCioubG9jYWwuanNvbgouZW52Cg==
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 本地私密配置（含可能的 apiKey）
+*.local.json
+.env

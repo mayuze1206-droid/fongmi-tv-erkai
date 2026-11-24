@@ -1,1 +1,40 @@
-ewogICJ1cmxzIjogWwogICAgewogICAgICAibmFtZSI6ICLlpJrku5Pngrnmkq0t57q/6Lev5pyA5aSaKGpzZGVsaXZyKSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2xpdTY3M2NuL2JveEBtYWluL20uanNvbiIKICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogIuWkmuS7k+eCueaSrS3lpIfnlKgocmF3KSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly9yYXcubGl1Y24uY2MvYm94L20uanNvbiIKICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogIueCueaSreiuoumYhS3lkKvniKzomaso6aaZ6ZuF5oOFKSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3h5cTI1NDI0NS94eXFvbmxpbmVydWxlL21haW4vWFlRVFZCb3guanNvbiIKICAgIH0KICBdLAogICJsaXZlcyI6IFsKICAgIHsKICAgICAgIm5hbWUiOiAi55u05pKtLWlwdHYub3JnKDUxN+mikemBkykiLAogICAgICAidXJsIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9pcHR2LW9yZy9pcHR2L21hc3Rlci9zdHJlYW1zL2NuLm0zdSIsCiAgICAgICJlcGciOiAiaHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9wcC54bWwiCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICLnm7Tmkq0t5aSu6KeG5Y2r6KeGKHZic2t5Y24pIiwKICAgICAgInVybCI6ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdmJza3ljbi9pcHR2L21hc3Rlci90di9pcHR2NC50eHQiLAogICAgICAiZXBnIjogImh0dHBzOi8vZXBnLjUxem10LnRvcDo4MDAxL2UueG1sLmd6IgogICAgfQogIF0sCiAgImRvaCI6IFsKICAgIHsKICAgICAgIm5hbWUiOiAi6Zi/6YeMIiwKICAgICAgInVybCI6ICJodHRwczovL2Rucy5hbGlkbnMuY29tL2Rucy1xdWVyeSIsCiAgICAgICJpcHMiOiBbIjIyMy41LjUuNSIsICIyMjMuNi42LjYiXQogICAgfSwKICAgIHsKICAgICAgIm5hbWUiOiAi6IW+6K6vIiwKICAgICAgInVybCI6ICJodHRwczovL2RvaC5wdWIvZG5zLXF1ZXJ5IiwKICAgICAgImlwcyI6IFsiMS4xMi4xMi4xMiJdCiAgICB9CiAgXQp9Cg==
+{
+  "urls": [
+    {
+      "name": "多仓点播-线路最多(jsdelivr)",
+      "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
+    },
+    {
+      "name": "多仓点播-备用(raw)",
+      "url": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+      "name": "点播订阅-含爬虫(香雅情)",
+      "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播-iptv.org(517频道)",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
+      "epg": "https://epg.112114.xyz/pp.xml"
+    },
+    {
+      "name": "直播-央视卫视(vbskycn)",
+      "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt",
+      "epg": "https://epg.51zmt.top:8001/e.xml.gz"
+    }
+  ],
+  "doh": [
+    {
+      "name": "阿里",
+      "url": "https://dns.alidns.com/dns-query",
+      "ips": ["223.5.5.5", "223.6.6.6"]
+    },
+    {
+      "name": "腾讯",
+      "url": "https://doh.pub/dns-query",
+      "ips": ["1.12.12.12"]
+    }
+  ]
+}

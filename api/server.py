@@ -1,1 +1,149 @@
-IiIiCuiHquacieeJh+a6kOWQjuerr+WPguiAg+WunueOsO+8iEZhc3RBUEnvvInvvIzlr7nlupQgZG9jcy8wMS3niYfmupBBUEnlpZHnuqYubWQKW1NQRUNJQUxfVkFSSUFOVF0g6K+05piO77ya5pys5paH5Lu255qEIE1PVklFUyDkuLrlhoXlrZjnpLrkvovmlbDmja7vvIzku4XnlKjkuo7mnKzlnLDogZTosIMgU3BpZGVy77ybCuiQveWcsOaXtuaKiiBnZXRfeHh4IOeahOaVsOaNruadpea6kOabv+aNouS4uuS9oOeahOaVsOaNruW6ky/niKzomavnu5PmnpzljbPlj6/vvIzmjqXlj6Pnu5PmnoTkuI4gU3BpZGVyIOaXoOmcgOaUueWKqOOAggoK5ZCv5Yqo77yaICB1dmljb3JuIHNlcnZlcjphcHAgLS1ob3N0IDAuMC4wLjAgLS1wb3J0IDgwMDAK5L6d6LWW77yaICBwaXAgaW5zdGFsbCBmYXN0YXBpIHV2aWNvcm4K6aqM6K+B77yaICBjdXJsICJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL3YxL2NhdGVnb3JpZXMiCiIiIgpmcm9tIHR5cGluZyBpbXBvcnQgQW55Cgpmcm9tIGZhc3RhcGkgaW1wb3J0IEZhc3RBUEksIEhlYWRlciwgUXVlcnkKZnJvbSBweWRhbnRpYyBpbXBvcnQgQmFzZU1vZGVsCgphcHAgPSBGYXN0QVBJKHRpdGxlPSLoh6rmnInniYfmupAgQVBJIiwgdmVyc2lvbj0iMS4wIikKCiMg6ZSZ6K+v56CB6ZuG5Lit5a6a5LmJ77yM56aB5q2i5pWj6JC96a2U5rOV5pWw5a2XCkNPREVfT0sgPSAwCkNPREVfQkFEX1BBUkFNID0gMTAwMQpDT0RFX0FVVEggPSAxMDAyCkNPREVfTk9UX0ZPVU5EID0gMjAwMQpDT0RFX1NFUlZFUiA9IDUwMDAKCiMgLS0tLS0tLS0tLS0tLS0tLSDnpLrkvovmlbDmja7vvIjokL3lnLDml7bmm7/mjaLkuLrnnJ/lrp7mlbDmja7mupDvvIkgLS0tLS0tLS0tLS0tLS0tLQpDQVRFR09SSUVTOiBsaXN0W2RpY3Rbc3RyLCBBbnldXSA9IFsKICAgIHsKICAgICAgICAiaWQiOiAibW92aWUiLCAibmFtZSI6ICLnlLXlvbEiLAogICAgICAgICJzdHlsZSI6IHsidHlwZSI6ICJyZWN0IiwgInJhdGlvIjogMC43NX0sCiAgICAgICAgImZpbHRlcnMiOiBbCiAgICAgICAgICAgIHsia2V5IjogInNvcnQiLCAibmFtZSI6ICLmjpLluo8iLCAiaW5pdCI6ICJsYXRlc3QiLAogICAgICAgICAgICAgInZhbHVlIjogW3sibiI6ICLmnIDmlrAiLCAidiI6ICJsYXRlc3QifSwgeyJuIjogIuacgOeDrSIsICJ2IjogImhvdCJ9XX0sCiAgICAgICAgICAgIHsia2V5IjogInllYXIiLCAibmFtZSI6ICLlubTku70iLCAiaW5pdCI6ICJhbGwiLAogICAgICAgICAgICAgInZhbHVlIjogW3sibiI6ICLlhajpg6giLCAidiI6ICJhbGwifSwgeyJuIjogIjIwMjYiLCAidiI6ICIyMDI2In0sIHsibiI6ICIyMDI1IiwgInYiOiAiMjAyNSJ9XX0sCiAgICAgICAgXSwKICAgIH0sCiAgICB7ImlkIjogInR2IiwgIm5hbWUiOiAi5Ymn6ZuGIiwgInN0eWxlIjogeyJ0eXBlIjogInJlY3QiLCAicmF0aW8iOiAwLjc1fSwgImZpbHRlcnMiOiBbXX0sCl0KCiMg5b2x54mH5Z+656GA5a2X5q615LiOIGxpbmVzIOmAiembhuWIhuemu++8jOaSreaUvuaXtuaJjeeUn+aIkOecn+WunuWcsOWdgApfTU9WSUVfQkFTRSA9IHsKICAgICJpZCI6ICJ2MDAxIiwgIm5hbWUiOiAi56S65L6L5b2x54mH5LiAIiwKICAgICJwaWMiOiAiaHR0cHM6Ly9leGFtcGxlLmNvbS9wb3N0ZXIvdjAwMS5qcGciLAogICAgInJlbWFya3MiOiAiSEQvMTA4MFAiLCAieWVhciI6ICIyMDI2IiwgImFyZWEiOiAi5Lit5Zu95aSn6ZmGIiwKICAgICJkaXJlY3RvciI6ICLnpLrkvovlr7zmvJQiLCAiYWN0b3IiOiAi5ryU5ZGY55Sy44CB5ryU5ZGY5LmZIiwKICAgICJjb250ZW50IjogIui/meaYr+S4gOadoeeUqOS6juaOpeWPo+iBlOiwg+eahOekuuS+i+aVsOaNruOAgiIsCn0KX0xJTkVTID0gWwogICAgeyJuYW1lIjogIuS4u+e6v+i3ryIsICJlcGlzb2RlcyI6IFsKICAgICAgICB7Im5hbWUiOiAi56ysMembhiIsICJwaWQiOiAidjAwMXwwfDAifSwKICAgICAgICB7Im5hbWUiOiAi56ysMumbhiIsICJwaWQiOiAidjAwMXwwfDEifSwKICAgIF19LAogICAgeyJuYW1lIjogIuWkh+eUqOe6v+i3ryIsICJlcGlzb2RlcyI6IFsKICAgICAgICB7Im5hbWUiOiAi56ysMembhiIsICJwaWQiOiAidjAwMXwxfDAifSwKICAgIF19LApdCgoKIyAtLS0tLS0tLS0tLS0tLS0tIOe7n+S4gOWTjeW6lOWMheijhe+8iOWNleS4gOWHuuWPo++8iSAtLS0tLS0tLS0tLS0tLS0tCmRlZiBvayhkYXRhOiBBbnkpIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgcmV0dXJuIHsiY29kZSI6IENPREVfT0ssICJtc2ciOiAib2siLCAiZGF0YSI6IGRhdGF9CgoKZGVmIGZhaWwoY29kZTogaW50LCBtc2c6IHN0cikgLT4gZGljdFtzdHIsIEFueV06CiAgICByZXR1cm4geyJjb2RlIjogY29kZSwgIm1zZyI6IG1zZywgImRhdGEiOiBOb25lfQoKCmRlZiBwYWdpbmF0ZShpdGVtczogbGlzdFtkaWN0W3N0ciwgQW55XV0sIHBnOiBpbnQsIGxpbWl0OiBpbnQgPSAyMCkgLT4gZGljdFtzdHIsIEFueV06CiAgICAiIiLlr7nlrozmlbTmuIXljZXliIfniYfliIbpobXvvJtwYWdlY291bnQg5b+F6aG755yf5a6e77yMQXBwIOaNruatpOWIpOaWreWKoOi9veS4i+S4gOmhteOAgiIiIgogICAgdG90YWwgPSBsZW4oaXRlbXMpCiAgICBwYWdlY291bnQgPSBtYXgoMSwgKHRvdGFsICsgbGltaXQgLSAxKSAvLyBsaW1pdCkKICAgIHBnID0gbWF4KDEsIG1pbihwZywgcGFnZWNvdW50KSkKICAgIHN0YXJ0ID0gKHBnIC0gMSkgKiBsaW1pdAogICAgcmV0dXJuIHsKICAgICAgICAibGlzdCI6IGl0ZW1zW3N0YXJ0OnN0YXJ0ICsgbGltaXRdLAogICAgICAgICJwYWdlIjogcGcsCiAgICAgICAgInBhZ2Vjb3VudCI6IHBhZ2Vjb3VudCwKICAgICAgICAibGltaXQiOiBsaW1pdCwKICAgICAgICAidG90YWwiOiB0b3RhbCwKICAgIH0KCgojIOivt+axguWPguaVsOeUqCBEVE8g5om/6L2977yM5qCh6aqM6ZuG5Lit5Zyo5Y+C5pWw5bGCCmNsYXNzIFZvZFF1ZXJ5KEJhc2VNb2RlbCk6CiAgICB0aWQ6IHN0ciA9ICIiCiAgICBwZzogaW50ID0gMQogICAgZmlsdGVyOiBkaWN0W3N0ciwgc3RyXSA9IHt9CgoKIyAtLS0tLS0tLS0tLS0tLS0tIOaOpeWPoyAtLS0tLS0tLS0tLS0tLS0tCkBhcHAuZ2V0KCIvYXBpL3YxL2NhdGVnb3JpZXMiKQpkZWYgY2F0ZWdvcmllcyh4X2FwaV9rZXk6IHN0ciB8IE5vbmUgPSBIZWFkZXIoZGVmYXVsdD1Ob25lLCBhbGlhcz0iWC1BcGktS2V5IikpOgogICAgIyDorqTor4HmlL7lnKjmjqXlj6PlsYLvvJvmnKrphY3nva4gYXBpS2V5IOaXtuS4jeWBmuagoemqjO+8iOWvueW6lCBjb25maWcg6YeMIGFwaUtleSDnlZnnqbrvvIkKICAgIHJldHVybiBvayhDQVRFR09SSUVTKQoKCkBhcHAuZ2V0KCIvYXBpL3YxL3ZvZHMiKQpkZWYgdm9kcyh0aWQ6IHN0ciA9ICIiLCBwZzogaW50ID0gMSwgZmlsdGVyOiBzdHIgPSAie30iKToKICAgIGlmIHBnIDwgMToKICAgICAgICByZXR1cm4gZmFpbChDT0RFX0JBRF9QQVJBTSwgInBnIOW/hemhuyA+PSAxIikKICAgIGltcG9ydCBqc29uCiAgICB0cnk6CiAgICAgICAgZmlsdGVycyA9IGpzb24ubG9hZHMoZmlsdGVyKSBpZiBmaWx0ZXIgZWxzZSB7fQogICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgIHJldHVybiBmYWlsKENPREVfQkFEX1BBUkFNLCAiZmlsdGVyIOW/hemhu+aYryBKU09OIOWvueixoeWtl+espuS4siIpCgogICAgIyDnpLrkvovvvJrlj6rmnInkuIDmnaHmlbDmja7vvJvnnJ/lrp7lrp7njrDmjIkgdGlkIC8gZmlsdGVycyDmn6Xor6LmlbDmja7lupMKICAgIGl0ZW1zID0gW10KICAgIGlmIHRpZCBpbiAoIiIsICJtb3ZpZSIsICJ0diIpOgogICAgICAgIGl0ZW1zID0gW3trOiBfTU9WSUVfQkFTRVtrXSBmb3IgayBpbiAoImlkIiwgIm5hbWUiLCAicGljIiwgInJlbWFya3MiLCAieWVhciIpfQogICAgICAgICAgICAgICAgIHwgeyJzdHlsZSI6IHsidHlwZSI6ICJyZWN0IiwgInJhdGlvIjogMC43NX19XQogICAgcmV0dXJuIG9rKHBhZ2luYXRlKGl0ZW1zLCBwZykpCgoKQGFwcC5nZXQoIi9hcGkvdjEvdm9kL3t2aWR9IikKZGVmIHZvZF9kZXRhaWwodmlkOiBzdHIpOgogICAgaWYgdmlkICE9IF9NT1ZJRV9CQVNFWyJpZCJdOgogICAgICAgIHJldHVybiBmYWlsKENPREVfTk9UX0ZPVU5ELCAi5pyq5om+5Yiw6K+l5b2x54mHIikKICAgIHJldHVybiBvayh7KipfTU9WSUVfQkFTRSwgImxpbmVzIjogX0xJTkVTfSkKCgpAYXBwLmdldCgiL2FwaS92MS9zZWFyY2giKQpkZWYgc2VhcmNoKGt3OiBzdHIgPSAiIiwgcGc6IGludCA9IDEpOgogICAgaWYgbm90IGt3LnN0cmlwKCk6CiAgICAgICAgcmV0dXJuIG9rKHBhZ2luYXRlKFtdLCBwZykpCiAgICBtYXRjaGVkID0gW10KICAgIGlmIGt3IGluIF9NT1ZJRV9CQVNFWyJuYW1lIl06CiAgICAgICAgbWF0Y2hlZCA9IFt7azogX01PVklFX0JBU0Vba10gZm9yIGsgaW4gKCJpZCIsICJuYW1lIiwgInBpYyIsICJyZW1hcmtzIiwgInllYXIiKX0KICAgICAgICAgICAgICAgICAgIHwgeyJzdHlsZSI6IHsidHlwZSI6ICJsaXN0In19XQogICAgcmV0dXJuIG9rKHBhZ2luYXRlKG1hdGNoZWQsIHBnKSkKCgpAYXBwLmdldCgiL2FwaS92MS9wbGF5IikKZGVmIHBsYXkocGlkOiBzdHIgPSBRdWVyeSguLi4pKToKICAgICIiIuaMiSBwaWQgPSB75b2x54mHaWR9fHvnur/ot6/ntKLlvJV9fHvpm4bntKLlvJV9IOWKqOaAgeeUn+aIkOaSreaUvuWcsOWdgOS4jumJtOadg+WktOOAgiIiIgogICAgcGFydHMgPSBwaWQuc3BsaXQoInwiKQogICAgaWYgbGVuKHBhcnRzKSAhPSAzOgogICAgICAgIHJldHVybiBmYWlsKENPREVfQkFEX1BBUkFNLCAicGlkIOagvOW8j+mUmeivryIpCiAgICB2aWQsIGxpbmVfaWR4LCBlcF9pZHggPSBwYXJ0cwogICAgaWYgdmlkICE9IF9NT1ZJRV9CQVNFWyJpZCJdOgogICAgICAgIHJldHVybiBmYWlsKENPREVfTk9UX0ZPVU5ELCAi5b2x54mH5LiN5a2Y5ZyoIikKICAgICMgW1NQRUNJQUxfVkFSSUFOVF0g56S65L6L55u06ZO+77yb6JC95Zyw5pe25oyJ5L2g55qE5a2Y5YKoL+mJtOadg+eUn+aIkO+8jHRva2VuIOWPquWcqOatpOWkhOWHuueOsAogICAgdXJsID0gZiJodHRwczovL2Nkbi5leGFtcGxlLmNvbS92aWRlby97dmlkfV97bGluZV9pZHh9X3tlcF9pZHh9Lm0zdTgiCiAgICByZXR1cm4gb2soewogICAgICAgICJ1cmwiOiB1cmwsCiAgICAgICAgInBhcnNlIjogMCwKICAgICAgICAiaGVhZGVyIjogeyJVc2VyLUFnZW50IjogIk1vemlsbGEvNS4wIiwgIlJlZmVyZXIiOiAiaHR0cHM6Ly9leGFtcGxlLmNvbS8ifSwKICAgICAgICAic3VicyI6IFt7Im5hbWUiOiAi566A5L2T5Lit5paHIiwgInVybCI6IGYiaHR0cHM6Ly9jZG4uZXhhbXBsZS5jb20vc3ViL3t2aWR9LnNydCIsCiAgICAgICAgICAgICAgICAgICJsYW5nIjogInpoIiwgImZvcm1hdCI6ICJzcnQiLCAiZmxhZyI6IDF9XSwKICAgIH0pCg==
+"""
+自有片源后端参考实现（FastAPI），对应 docs/01-片源API契约.md
+[SPECIAL_VARIANT] 说明：本文件的 MOVIES 为内存示例数据，仅用于本地联调 Spider；
+落地时把 get_xxx 的数据来源替换为你的数据库/爬虫结果即可，接口结构与 Spider 无需改动。
+
+启动：  uvicorn server:app --host 0.0.0.0 --port 8000
+依赖：  pip install fastapi uvicorn
+验证：  curl "http://127.0.0.1:8000/api/v1/categories"
+"""
+from typing import Any
+
+from fastapi import FastAPI, Header, Query
+from pydantic import BaseModel
+
+app = FastAPI(title="自有片源 API", version="1.0")
+
+# 错误码集中定义，禁止散落魔法数字
+CODE_OK = 0
+CODE_BAD_PARAM = 1001
+CODE_AUTH = 1002
+CODE_NOT_FOUND = 2001
+CODE_SERVER = 5000
+
+# ---------------- 示例数据（落地时替换为真实数据源） ----------------
+CATEGORIES: list[dict[str, Any]] = [
+    {
+        "id": "movie", "name": "电影",
+        "style": {"type": "rect", "ratio": 0.75},
+        "filters": [
+            {"key": "sort", "name": "排序", "init": "latest",
+             "value": [{"n": "最新", "v": "latest"}, {"n": "最热", "v": "hot"}]},
+            {"key": "year", "name": "年份", "init": "all",
+             "value": [{"n": "全部", "v": "all"}, {"n": "2026", "v": "2026"}, {"n": "2025", "v": "2025"}]},
+        ],
+    },
+    {"id": "tv", "name": "剧集", "style": {"type": "rect", "ratio": 0.75}, "filters": []},
+]
+
+# 影片基础字段与 lines 选集分离，播放时才生成真实地址
+_MOVIE_BASE = {
+    "id": "v001", "name": "示例影片一",
+    "pic": "https://example.com/poster/v001.jpg",
+    "remarks": "HD/1080P", "year": "2026", "area": "中国大陆",
+    "director": "示例导演", "actor": "演员甲、演员乙",
+    "content": "这是一条用于接口联调的示例数据。",
+}
+_LINES = [
+    {"name": "主线路", "episodes": [
+        {"name": "第1集", "pid": "v001|0|0"},
+        {"name": "第2集", "pid": "v001|0|1"},
+    ]},
+    {"name": "备用线路", "episodes": [
+        {"name": "第1集", "pid": "v001|1|0"},
+    ]},
+]
+
+
+# ---------------- 统一响应包装（单一出口） ----------------
+def ok(data: Any) -> dict[str, Any]:
+    return {"code": CODE_OK, "msg": "ok", "data": data}
+
+
+def fail(code: int, msg: str) -> dict[str, Any]:
+    return {"code": code, "msg": msg, "data": None}
+
+
+def paginate(items: list[dict[str, Any]], pg: int, limit: int = 20) -> dict[str, Any]:
+    """对完整清单切片分页；pagecount 必须真实，App 据此判断加载下一页。"""
+    total = len(items)
+    pagecount = max(1, (total + limit - 1) // limit)
+    pg = max(1, min(pg, pagecount))
+    start = (pg - 1) * limit
+    return {
+        "list": items[start:start + limit],
+        "page": pg,
+        "pagecount": pagecount,
+        "limit": limit,
+        "total": total,
+    }
+
+
+# 请求参数用 DTO 承载，校验集中在参数层
+class VodQuery(BaseModel):
+    tid: str = ""
+    pg: int = 1
+    filter: dict[str, str] = {}
+
+
+# ---------------- 接口 ----------------
+@app.get("/api/v1/categories")
+def categories(x_api_key: str | None = Header(default=None, alias="X-Api-Key")):
+    # 认证放在接口层；未配置 apiKey 时不做校验（对应 config 里 apiKey 留空）
+    return ok(CATEGORIES)
+
+
+@app.get("/api/v1/vods")
+def vods(tid: str = "", pg: int = 1, filter: str = "{}"):
+    if pg < 1:
+        return fail(CODE_BAD_PARAM, "pg 必须 >= 1")
+    import json
+    try:
+        filters = json.loads(filter) if filter else {}
+    except (ValueError, TypeError):
+        return fail(CODE_BAD_PARAM, "filter 必须是 JSON 对象字符串")
+
+    # 示例：只有一条数据；真实实现按 tid / filters 查询数据库
+    items = []
+    if tid in ("", "movie", "tv"):
+        items = [{k: _MOVIE_BASE[k] for k in ("id", "name", "pic", "remarks", "year")}
+                 | {"style": {"type": "rect", "ratio": 0.75}}]
+    return ok(paginate(items, pg))
+
+
+@app.get("/api/v1/vod/{vid}")
+def vod_detail(vid: str):
+    if vid != _MOVIE_BASE["id"]:
+        return fail(CODE_NOT_FOUND, "未找到该影片")
+    return ok({**_MOVIE_BASE, "lines": _LINES})
+
+
+@app.get("/api/v1/search")
+def search(kw: str = "", pg: int = 1):
+    if not kw.strip():
+        return ok(paginate([], pg))
+    matched = []
+    if kw in _MOVIE_BASE["name"]:
+        matched = [{k: _MOVIE_BASE[k] for k in ("id", "name", "pic", "remarks", "year")}
+                   | {"style": {"type": "list"}}]
+    return ok(paginate(matched, pg))
+
+
+@app.get("/api/v1/play")
+def play(pid: str = Query(...)):
+    """按 pid = {影片id}|{线路索引}|{集索引} 动态生成播放地址与鉴权头。"""
+    parts = pid.split("|")
+    if len(parts) != 3:
+        return fail(CODE_BAD_PARAM, "pid 格式错误")
+    vid, line_idx, ep_idx = parts
+    if vid != _MOVIE_BASE["id"]:
+        return fail(CODE_NOT_FOUND, "影片不存在")
+    # [SPECIAL_VARIANT] 示例直链；落地时按你的存储/鉴权生成，token 只在此处出现
+    url = f"https://cdn.example.com/video/{vid}_{line_idx}_{ep_idx}.m3u8"
+    return ok({
+        "url": url,
+        "parse": 0,
+        "header": {"User-Agent": "Mozilla/5.0", "Referer": "https://example.com/"},
+        "subs": [{"name": "简体中文", "url": f"https://cdn.example.com/sub/{vid}.srt",
+                  "lang": "zh", "format": "srt", "flag": 1}],
+    })
