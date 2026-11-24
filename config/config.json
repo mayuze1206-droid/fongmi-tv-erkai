@@ -1,0 +1,36 @@
+{
+  "urls": [
+    {
+      "name": "多仓点播-线路最多",
+      "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
+    },
+    {
+      "name": "点播-含爬虫(香雅情)",
+      "url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json"
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播-央视卫视",
+      "url": "https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/tv/iptv4.txt",
+      "epg": "https://epg.112114.xyz/pp.xml"
+    },
+    {
+      "name": "直播-iptv.org",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
+      "epg": "https://epg.112114.xyz/pp.xml"
+    }
+  ],
+  "doh": [
+    {
+      "name": "阿里",
+      "url": "https://dns.alidns.com/dns-query",
+      "ips": ["223.5.5.5", "223.6.6.6"]
+    },
+    {
+      "name": "腾讯",
+      "url": "https://doh.pub/dns-query",
+      "ips": ["1.12.12.12"]
+    }
+  ]
+}
